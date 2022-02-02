@@ -1,0 +1,75 @@
+<!DOCTYPE html> 
+
+<html lang="en">
+    <head>
+        <style>            /*wow style is now css! cool */
+            #link_id       /* this changes the behaviour of anything with this unique identifier id*/
+            {
+                color: #ff0000;
+            }
+            a
+            {
+                color: #ff0000;          /* this tag changes the link aesthetic down below */
+                text-decoration: none;
+            }
+            a:hover                      /* this tag creates a hovering thing on the link*/
+            {
+                text-decoration: underline;
+            }
+        </style>
+        <title>
+            hello, title
+        </title>
+    </head>
+    <body>
+        <h1>Paragraph 1</h1>
+        <p>
+            hello, body
+        </p>
+        <h1>Paragraph 2</h1>
+        <p>
+            hello, second paragraph of body
+        </p>
+        <ul>            <!-- unordered list -->
+            <li>first in list</li>
+            <li>second in list</li>
+            <li>third in list</li>
+        </ul>
+        <ol>            <!-- ordered list -->
+            <li>first in list</li>
+            <li>second in list</li>
+            <li>third in list</li>
+        </ol>
+        <table>           <!-- tables! tr for table rows, and td for table data -->
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+            </tr>
+                <tr>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+            </tr>
+        </table>
+        
+        <img alt= "name of img" src="source_of_img.jpg">   <!-- adds an image! -->
+        
+        <p>
+            This will be a link: <a href="image.html" id = "link_id">WORD_BEING_LINKED</a>
+        </p>
+        <p>
+            <form action= "https://www.google.com/search" method = "get"> <!-- creates a search box that mirrors google w user input!! -->
+                <input name="q" type="search">                            <!-- "get" is one verb, "post" is another that also submits info, -->
+                <input type="submit" value="Search">                      <!-- but doesnt place it in the url -->
+            </form>
+        </p>
+        
+    </body>
+</html>
+

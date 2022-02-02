@@ -1,0 +1,48 @@
+flight id: 36
+To: London
+
+
+LICENSE MUST BE IN HERE
+5P2BI95 | exit | 10 | 16
+94KL13X | exit | 10 | 18
+6P58WS2 | exit | 10 | 18
+4328GD8 | exit | 10 | 19
+G412CB7 | exit | 10 | 20
+L93JTIZ | exit | 10 | 21
+322W7JE | exit | 10 | 23
+0NTHK55 | exit | 10 | 23
+
+Bank Account must be in here
+28500762 | withdraw | Fifer Street
+28296815 | withdraw | Fifer Street
+76054385 | withdraw | Fifer Street
+49610011 | withdraw | Fifer Street
+16153065 | withdraw | Fifer Street
+25506511 | withdraw | Fifer Street
+81061156 | withdraw | Fifer Street
+26013199 | withdraw | Fifer Street
+
+Person_id must be in here (second number)
+49610011 | 686048
+26013199 | 514354
+16153065 | 458378
+28296815 | 395717
+25506511 | 396669
+28500762 | 467400
+76054385 | 449774
+81061156 | 438727
+
+THIEF must have this phone number
+(130) 555-0289
+(499) 555-9472
+(367) 555-5533
+(499) 555-9472
+(286) 555-6063
+(770) 555-1861
+(031) 555-6622
+(826) 555-1652
+(338) 555-6650
+
+MUST BE THIS FLIGHT
+flightID  To
+36 | 4 | 8 | 20

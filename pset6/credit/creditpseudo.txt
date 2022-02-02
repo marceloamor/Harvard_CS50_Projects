@@ -1,0 +1,18 @@
+
+Pseudo code lets go
+
+get user input:
+    Number: 
+    Ensure it is numerical otherwise INVALID
+Run Luhn's formula' on it 
+    create variable w card length
+    for i until length less than 1, multiply ith digit and add to counter variable 
+    add every other digit in a variable 
+    add both variables and modulo 10
+
+then we do some checks, shall we
+
+
+
+Outputs:
+    AMEX, MASTERCARD, VISA, INVALID
