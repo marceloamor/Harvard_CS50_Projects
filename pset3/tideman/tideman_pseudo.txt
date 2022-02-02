@@ -1,0 +1,22 @@
+Tideman pseudo
+
+Vote: name, rank, ranks ----> ranks (for each voter) try to print ranks to see whats going on (maybe make so you cant vote same person twice)
+        FOR every candidate in the list
+            IF name exists in candidate list
+            THEN update that voters ith rank w that candidates index
+        otherwise return incorrect vote
+        
+Rec_Pref: ranks (from each voter) ----> preferences[i][j] 
+        FOR each candidate length 
+            if ranks[i] = candidates[i]
+            
+add_pairs: output a finished 1D array of pair structs, with winners and losers of matchups, and an updated array of pair_count 
+            
+sort_pairs: a sorted array of pair structs where first pair is the index most repeated at the winner spot
+        FOR every pair in pairs, of length pair_count
+            IF a pair has the most wins, put it first 
+
+lock_pairs: working on paper , complex af 
+
+print_winner: 
+
